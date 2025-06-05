@@ -1,0 +1,28 @@
+h1{
+    color:#131212
+}
+h1{
+    
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+body{
+    background-image:url(bg2.webp);
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+h1{
+    background-color: #f7eeee;
+    width: 290px;
+    
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+        
+}
